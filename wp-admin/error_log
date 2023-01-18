@@ -1,0 +1,1 @@
+[21-Dec-2018 22:05:17 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_reviews' not found or invalid function name in /home/catawbab/public_html/mycatawba/wp-includes/class-wp-hook.php on line 286
